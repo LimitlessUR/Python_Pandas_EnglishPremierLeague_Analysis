@@ -5,7 +5,7 @@ Full Seasons 2020-2021 Analysis
 
 ![eplkaggle](https://user-images.githubusercontent.com/86543368/212995650-e3754381-cb96-42fd-82fc-0946a409383b.png)
 
-### Used Jupyter Notebook to break down both seasons
+## Used Jupyter Notebook to break down both seasons
 
 Some data inquiries included:
 
