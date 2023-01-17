@@ -8,7 +8,11 @@ Full Seasons 2020-2021 Analysis
 Some data inquiries included:
 
 Players with most yellow cards.
+
 Players/Clubs with the most goals. 
-Average age of clubs 
-Age breakdown of clubs
+
+Average age of clubs. 
+
+Age breakdown of clubs.
+
 etc. 
